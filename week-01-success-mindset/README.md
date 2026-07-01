@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One belief I hold that many people around me disagree with is that working smart is often more effective than simply working hard. I believe hard work is valuable, but if there is a smarter, less stressful, and more time-efficient way to achieve the same or even better results, I see no reason not to choose it. To me, success is measured by the quality of the outcome, not just the number of hours spent working. Smart work allows us to maximize our time, energy, and resources while still delivering excellent results.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency is the foundation of lasting success
 
 ### Evidence from my life
 
-Add your answer here...
+In my DevOps journey, i have come to understand that the more consistant i am, the more brojects i build, more i understand the concept. Its not about working intensively for a day or two and disappearing for weeks, it s about showing up everyday for some minutes or hours.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Visibility creates opportunities.
 
 ### Evidence from my life
 
-Add your answer here...
+I experimented with posting my projects on LinkedIn instead of keeping them private. As a result, I grew my professional network, attracted recruiters and even connected with industry professionals. This showed Me that doing great work is important, but making that work visible significantly increases the chances of new opportunities finding me.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Building projects teaches more than consuming tutorials
 
 ### Evidence from my life
 
-Add your answer here...
+Watching videos gave me knowledge, but actually deploying applications, troubleshooting errors, and documenting projects turned that knowledge into practical skills
 
 ---
 
@@ -135,13 +135,31 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Lilian Abiakam: Building the Future Through Cloud Engineering
+
+Five years ago, Lilian Abiakam made a deliberate decision to transition into Cloud and DevOps Engineering. That decision transformed her career and established her as a respected engineer known for building secure, automated, and scalable cloud infrastructure.
+
+She built an impressive portfolio of real-world DevOps projects covering AWS, Kubernetes, Terraform, Docker, GitHub Actions, Helm, GitOps, observability, Agentic AI and cloud security. Rather than relying on certifications alone, she consistently published hands-on project documentation, architecture diagrams, implementation guides, and lessons learned on GitHub and LinkedIn. Her portfolio became a practical demonstration of her engineering abilities and was frequently referenced during interviews and technical discussions.
+
+Lilian shipped production-grade cloud infrastructure and CI/CD pipelines that reduced deployment time, improved reliability, and strengthened security for engineering teams. She led cloud infrastructure initiatives that embraced Infrastructure as Code, automation, and DevSecOps best practices. Her contributions helped organizations standardize deployments, minimize manual errors, and accelerate software delivery.
+
+Her commitment to continuous learning never slowed. She earned industry-recognized certifications, deepened her expertise in cloud providers and Kubernetes, and expanded into platform engineering, cloud security, and AI-powered automation. She also published technical blogs that simplified complex cloud concepts for aspiring engineers, making advanced topics accessible to thousands of readers.
+
+Her GitHub profile evolved into a collection of well-documented projects demonstrating enterprise-level architecture, GitOps workflows, observability, cloud networking, disaster recovery, and security automation. Many of her repositories became valuable learning resources for engineers beginning their own DevOps journeys.
+
+Beyond technical contributions, Lilian became an active community leader. She mentored aspiring cloud engineers, contributed to open-source projects, volunteered in technology communities, and regularly shared practical lessons from real-world implementations. Her willingness to teach and support others earned her recognition as both an engineer and a mentor.
+
+Her work opened international opportunities, and she relocated to the United States, where she joined one of the world's leading technology companies as a DevOps and Cloud Engineer. There, she contributed to highly available cloud platforms supporting millions of users, collaborated with world-class engineering teams, and helped build reliable infrastructure that powered large-scale applications.
+
+Colleagues described Lilian as an engineer who combined strong technical skills with curiosity, discipline, and clear communication. She became known for solving complex infrastructure challenges, automating repetitive processes, and documenting solutions that empowered entire teams.
+
+Looking back, her journey proved that consistent learning, practical project experience, and a commitment to sharing knowledge created opportunities that extended far beyond technical expertise. The engineer who once built projects to learn had become the engineer trusted to build platforms that others relied on every day.
 
 ### Public Link
 
 Paste your link here:
-
-`__________________________`
+https://www.linkedin.com/posts/lilian-abiakam_devops-cloudengineering-aws-activity-7478154651960344576-cfmm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEGBI0BvR1HNzgEpSCd9BsybZYv_CiOxgM
+`_________________________`
 
 ---
 
@@ -165,7 +183,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+Yes
 
 If Yes:
 
@@ -173,7 +191,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilty and uncomfortable. At first, I was relieved because I was able to cut corners pay my tuition quickly, but that relief did not last. When I came out of the bank and saw people who had arrived before me still standing in the queue, I felt ashamed. Their looks made me realize that my shortcut was unfair to them. I also felt regret because even though I solved my problem faster, I did it in a way that did not feel right.
 
 ---
 
@@ -199,16 +217,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. The Psychology of Money — Morgan Housel
+3. Deep Work — Cal Newport
+4. The 7 Habits of Highly Effective People — Stephen R. Covey
+5. How to Win Friends and Influence People — Dale Carnegie
+6. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois & John Willis
+7. The Lean Startup — Eric Ries
+8. The First 90 Days — Michael D. Watkins
+9. The Phoenix Project — Gene Kim, Kevin Behr & George Spafford
+10. The 48 Laws of Power — Robert Greene
 
 ---
 
@@ -237,16 +255,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per day
+* technical skills acquired each week
+* Hands-on projects completed and documented
+* LinkedIn posts and professional networking activities
+* Daily ten thousand steps
+* Technical books, blogs, or courses completed
+* Personal savings, investments, and monthly spending
+* Daily calorie intake
+* Job applications, interviews, and professional certifications earned
+* Sleep quality, exercise, and overall energy levels
 
 ---
 
@@ -272,7 +290,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +308,29 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Based on what I know about your current routine—you work during the day, spend significant time commuting in the evenings, you're enrolled in the DevOps Micro Internship (DMI), and you're intentionally building a portfolio for international opportunities—here's a realistic 5-month weekly routine.
+
+## My Weekly Routine
+
+**Monday – Friday**
+
+* 6:00–8:00AM: Prayer and light exercise
+* 3:00pm-5:00pm Work on DMI assignment for the week
+* 7:30–9:30 PM, work on DevOps projects, cloud labs, or certifications
+* **9:30–10:00 PM:** Document progress on GitHub or LinkedIn and prepare for the next day
+
+**Saturday**
+
+* Attend DMI sessions 
+* Network and engage with the tech community on LinkedIn
+   watch dmi videos
+**Sunday**
+
+* Attend church and rest
+* Review the week's achievements and challenges
+* Read a non-fiction book for personal and professional growt
+
+
 
 ---
 
@@ -298,11 +338,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+monday to friday
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 sessions
 
 ---
 
@@ -316,7 +356,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+phone rule: put my phone on silent till i am done with my work
 
 ---
 
@@ -324,28 +364,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I discovered that I am more disciplined than I thought. Even when I felt tired after work or spent hours in traffic, I still found ways to keep learning and making progress toward my goals instead of making excuses
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I sometimes expect immediate results from my hard work. When progress is slower than I anticipated, I become impatient, even though I know meaningful growth takes time.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every saturday by 8:00pm I will go througly my weekly routine to know where i flawed so i can do better the upper week
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
-
-`__________________________`
+https://www.linkedin.com/posts/lilian-abiakam_devops-cloudengineering-aws-activity-7478154651960344576-cfmm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEGBI0BvR1HNzgEpSCd9BsybZYv_CiOxgM
+`_________________________`_
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/lilian-abiakam_devops-cloudengineering-aws-activity-7478154651960344576-cfmm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEGBI0BvR1HNzgEpSCd9BsybZYv_CiOxgM 
+- Blog / Medium : https://medium.com/@abiakamlilian/lilian-abiakam-2-0-9cf8059ddc47  
 
 ---
 
