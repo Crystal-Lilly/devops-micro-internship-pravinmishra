@@ -186,8 +186,8 @@ Create a LinkedIn post including:
 - Tag: #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 
 **Submit:**
-- LinkedIn post URL
-- Screenshot of the post
+- LinkedIn post URL: https://www.linkedin.com/feed/update/urn:li:ugcPost:7480996992240779264/
+- Screenshot of the post:  ![linkedin post screenshot](./screenshots/image-showing-linkedin-post.jpeg)
 
 ---
 

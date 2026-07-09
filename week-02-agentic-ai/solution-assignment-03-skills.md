@@ -20,7 +20,8 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-Add your screenshot here.
+
+![vscode sidebar showing .claude/skill folder and 4 sub folders](./screenshots/.claude-skills-folder-with-4-subfolders.jpeg)
 
 ---
 
@@ -34,13 +35,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
+![.claude/skills/scaffold-terraform open in vscode](./screenshots/showing-skill.md-and-terraform-spec.md-in-vscode.jpeg)
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![tf-plan/skill.md allowed tools](./screenshots/tf-plan-skill.md-in-vscode.jpeg)
 
 ---
 
@@ -54,13 +55,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-Add your screenshot here.
+![claude response to /scaffold-terraform](./screenshots/claude-response-with-files-listed.jpeg)
 
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+![image showin /terraform folder](./screenshots/vscode-sidebar-showing-terraform-folder-with-all-generated-files.jpeg)
 
 ---
 
@@ -74,7 +75,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![claude response to /tf-plan](./screenshots/tf-plan-response.jpeg)
 
 ---
 
@@ -90,13 +91,11 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`_https://github.com/Crystal-Lilly/Ultimate-Agentic-DevOps-with-Claude-Code.git_
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
-
-`__________________________`
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7480996992240779264/_____________`
 ---
 
 # Completion Checklist
