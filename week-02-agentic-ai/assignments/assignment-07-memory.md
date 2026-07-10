@@ -166,7 +166,7 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 6 required screenshots
 - Your GitHub repo URL
-- 
+
 ---
 
 ## 10. Solution Walkthrough
@@ -183,7 +183,7 @@ Create a LinkedIn post including:
 - Tag: #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 
 **Submit:**
-- LinkedIn post URL
+- LinkedIn post URL: https://www.linkedin.com/feed/update/urn:li:ugcPost:7481325055713456128/
 - Screenshot of the post
 
 ---
