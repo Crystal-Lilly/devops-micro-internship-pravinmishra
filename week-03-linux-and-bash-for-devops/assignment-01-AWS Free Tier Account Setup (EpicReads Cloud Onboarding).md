@@ -20,19 +20,27 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+Here's a concise answer suitable for your DMI assignment:
+
+ An AWS account is a personal or organizational account that provides access to Amazon Web Services (AWS), allowing you to create and manage cloud resources such as virtual machines, storage, databases, and networking services. At this stage, it is essential because it gives us a hands-on environment to practice cloud concepts, complete lab exercises, and build real-world DevOps projects using AWS services.**
+
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier is a program that allows new AWS customers to use selected AWS services at no cost, within specific usage limits. Most Free Tier benefits last for 12 months from the date the AWS account is created, although some services offer an always-free tier or short-term free trials.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+> **Three common AWS Free Tier services are:**
+
+Amazon EC2 – Up to 750 hours per month of a t2.micro or t3.micro instance (depending on the region) for 12 months.
+Amazon S3- 5 GB of Standard Storage, 20,000 GET requests, and 2,000 PUT requests per month for 12 months.
+Amazon RDS– Up to 750 hours per month of a db.t3.micro or db.t4g.micro Single-AZ database instance, plus 20 GB of storage and backup for 12 months.
+
 
 ---
 
@@ -56,7 +64,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![image](./screenshots/Aws-account-page.jpeg)
 
 ---
 
