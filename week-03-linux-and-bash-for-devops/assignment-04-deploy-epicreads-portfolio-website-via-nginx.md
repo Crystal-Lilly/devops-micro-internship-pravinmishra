@@ -120,7 +120,11 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/feed/update/urn:li:ugcPost:7483603421141499905/
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

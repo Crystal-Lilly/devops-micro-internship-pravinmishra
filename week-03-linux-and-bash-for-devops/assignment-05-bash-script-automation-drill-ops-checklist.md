@@ -437,7 +437,11 @@ Functions organize the script into separate reusable sections, making the automa
 
 Paste your LinkedIn post URL here:
 
+<<<<<<< HEAD
 _https://www.linkedin.com/feed/update/urn:li:ugcPost:7483912994842886144/_
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
