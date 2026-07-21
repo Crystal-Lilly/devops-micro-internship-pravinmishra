@@ -36,19 +36,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+systemctl is-active nginx result shows active
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+ss -ltn | grep ':80' showed listening 80
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline provides a reference point for how the system behaves when everything is working correctly. By recording the normal state of the server before an incident, it becomes easier to identify what changed, compare results, and troubleshoot the issue effectively.
 
 ---
 
@@ -72,19 +72,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Claude should receive project-specific rules to ensure it follows the correct workflow, stays within safety limits, and provides reliable incident analysis.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human must execute recovery commands to review and approve changes before they affect the system
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule is: Do not claim a root cause unless the report contains supporting evidence.
 
 ---
 
